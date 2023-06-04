@@ -28,7 +28,7 @@ You can setup this repository by following this manual
 1. Clone the repository
 
 ```bash
-git clone git@github.com:oyieroyier/product-review.git
+git clone git@github.com:keowen375/Active-Records-ph3.git
 ```
 
 2. Ensure the ruby gems are setup in your machine
